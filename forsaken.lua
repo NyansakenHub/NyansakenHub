@@ -2279,7 +2279,7 @@ Combat:CreateToggle({
 
 
 -- Services
-local killerNames = { "Jason", "c00lkidd", "JohnDoe", "1x1x1x1", "Noli" }
+local killerNames = { "Jason", "c00lkidd", "JohnDoe", "1x1x1x1", "Noli", "Slasher" }
 
 -- Vars
 local enabled = false
