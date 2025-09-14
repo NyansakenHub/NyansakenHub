@@ -1,1 +1,1 @@
-kick("nuh uh")
+game.Players.LocalPlayer:Kick("Discontinue")
