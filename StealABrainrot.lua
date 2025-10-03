@@ -24,6 +24,7 @@ local checkBrainrot = false
 local selectedBrainrots = {}
 local selectedRarities = {}
 local selectedMutations = {}
+Tab:BuildConfigGroupbox(2)
 local toggle = Groupbox:CreateToggle({
    Name = "Tự Động Mua Brainrot",
    CurrentValue = false,
@@ -203,5 +204,4 @@ task.spawn(function()
 		task.wait()
 	end
 end)
-Tab:BuildConfigGroupbox(2)
 Starlight:LoadAutoloadConfig()
