@@ -1,14 +1,14 @@
 local Starlight = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/starlight"))()
 local NebulaIcons = loadstring(game:HttpGet("https://raw.nebulasoftworks.xyz/nebula-icon-library-loader"))()
 local Window = Starlight:CreateWindow({
-    Name = "by MinhDucBeoMup",
-    Subtitle = "by MinhDucBeoMup",
+    Name = "Auto Buy Brainrot by LKQ",
+    Subtitle = "by LKQ",
     LoadingSettings = {
-        Title = "by MinhDucBeoMup",
-        Subtitle = "by MinhDucBeoMup",
+        Title = "by LKQ",
+        Subtitle = "by LKQ",
     },
     FileSettings = {
-        ConfigFolder = "MinhDucHub"
+        ConfigFolder = "NyansakenHubScript"
     },
 })
 local TabSection = Window:CreateTabSection("Steal A Brainrot")
