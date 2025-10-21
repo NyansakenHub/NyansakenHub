@@ -39,7 +39,7 @@ local Tab = TabSection:CreateTab({
 }, "INDEX1")
 
 local Groupbox = Tab:CreateGroupbox({
-	Name = "Auto Mua Brainrot",
+	Name = "Buy Brainrot",
 	Column = 1,
 }, "INDEX2")
 
